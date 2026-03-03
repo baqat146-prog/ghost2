@@ -78,7 +78,7 @@ echo                                     ║   [8] RAM/MEMORY OPTIMIZER         
 echo                                     ║                                              ║ 
 echo                                     ╠══════════════════════════════════════════════╣ 
 echo                                     ║                                              ║ 
-echo                                     ║                                             ║ 
+echo                                     ║                                              ║ 
 echo                                     ║                                              ║ 
 echo                                     ╚══════════════════════════════════════════════╝ 
 echo. 
@@ -1001,3 +1001,4 @@ echo.
 pause 
 
 goto main_menu
+
