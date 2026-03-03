@@ -78,7 +78,7 @@ echo                                     ║   [8] RAM/MEMORY OPTIMIZER         
 echo                                     ║                                              ║ 
 echo                                     ╠══════════════════════════════════════════════╣ 
 echo                                     ║                                              ║ 
-echo                                     ║   [0] EXIT                                   ║ 
+echo                                     ║                                             ║ 
 echo                                     ║                                              ║ 
 echo                                     ╚══════════════════════════════════════════════╝ 
 echo. 
@@ -90,8 +90,7 @@ if "%choice%"=="4" goto app_debloat
 if "%choice%"=="5" goto start 
 if "%choice%"=="6" goto mouse_tweak 
 if "%choice%"=="7" goto network 
-if "%choice%"=="8" goto ram_optimizer 
-if "%choice%"=="0" exit 
+if "%choice%"=="8" goto ram_optimizer  
 goto main_menu 
 :: ====================== 
 :: CPU MENU 
@@ -1000,4 +999,5 @@ echo                                     ║                                    
 echo                                     ╚══════════════════════════════════════════════╝ 
 echo. 
 pause 
+
 goto main_menu
