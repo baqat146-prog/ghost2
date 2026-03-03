@@ -43,16 +43,6 @@ timeout /t 1 >nul
 cls 
 title SBT - System Boost Toolkit
 color 0B
-echo. 
-echo                                      ███████╗██████╗ ████████╗
-echo                                      ██╔════╝██╔══██╗╚══██╔══╝
-echo                                      ███████╗██████╔╝   ██║   
-echo                                      ╚════██║██╔══██╗   ██║   
-echo                                      ███████║██████╔╝   ██║   
-echo                                      ╚══════╝╚═════╝    ╚═╝   
-echo.
-echo                                           System Boost Toolkit
-echo                                        github.com/baqat146-prog
 echo.
 echo                                     ╔══════════════════════════════════════════════╗ 
 echo                                     ║                                              ║ 
@@ -1001,4 +991,5 @@ echo.
 pause 
 
 goto main_menu
+
 
